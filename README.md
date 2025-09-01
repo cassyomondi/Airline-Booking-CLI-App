@@ -25,3 +25,11 @@ By Cassy Omondi
 - Simple, menu-driven command-line interface
 
 ---
+
+### Repository
+
+Clone the project from GitHub:  
+**SSH:** `git@github.com:evansveryown/Airline-Booking-CLI-App.git`  
+**HTTPS:** `https://github.com/evansveryown/Airline-Booking-CLI-App.git`
+
+---
