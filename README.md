@@ -29,8 +29,8 @@ By Cassy Omondi
 ### Repository
 
 Clone the project from GitHub:  
-**SSH:** `git@github.com:evansveryown/Airline-Booking-CLI-App.git`  
-**HTTPS:** `https://github.com/evansveryown/Airline-Booking-CLI-App.git`
+**SSH:** `git@github.com:cassyomondi/Airline-Booking-CLI-App.git`  
+**HTTPS:** `https://github.com/cassyomondi/Airline-Booking-CLI-App.git`
 
 ---
 
@@ -42,7 +42,7 @@ Clone the project from GitHub:
 
 #### 1. Clone the repository:
 ```bash
-git clone https://github.com/evansveryown/Airline-Booking-CLI-App.git
+git clone https://github.com/cassyomondi/Airline-Booking-CLI-App.git
 ```
 
 #### 2. Navigate to the project folder:
